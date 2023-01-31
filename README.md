@@ -10,6 +10,10 @@
 7. Setting up a static website (Optional)
 
 ## Links
+### Before the workshop
 - [Github Desktop Download](https://desktop.github.com/)
 - [Code editor](https://code.visualstudio.com/download)
 - [Github Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
+### During the Workshop
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
