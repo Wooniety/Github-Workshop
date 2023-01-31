@@ -10,7 +10,6 @@
 7. Setting up a static website (Optional)
 
 ## Links
-- [Slido](slido.com) code: 1524043
 - [Github Desktop Download](https://desktop.github.com/)
 - [Code editor](https://code.visualstudio.com/download)
 - [Github Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
