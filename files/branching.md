@@ -12,4 +12,9 @@
 4. Commit and push these changes
 5. Try to find these changes on the Github repository page by changing the branch
 
+## Merging
+1. Merge your branch into the main branch
+2. See these changes on Github
+
 ## Merge Conflict
+1. 
