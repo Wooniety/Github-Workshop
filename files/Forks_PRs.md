@@ -1,3 +1,7 @@
+# Pull Requests
+1. On your partner's repository, create a new branch `feature/landing-page`
+2. Add an `index.html` file into their repository. (You can use the example index.html in this repository)
+
 # Forking
 
 ## Simulating a Fork
@@ -10,3 +14,4 @@
 3. Clone the forked repository
 
 ## Merging it into the Repository
+You can try this in your own time
