@@ -10,8 +10,8 @@
 
 ## Links
 ### Before the workshop
-- [Github Desktop Download](https://desktop.github.com/)
-- [Code editor](https://code.visualstudio.com/download)
+- [Github Desktop Download](https://desktop.github.com/download/?wt.mc_id=studentamb_409917)
+- [Code editor](https://code.visualstudio.com/download?wt.mc_id=studentamb_409917)
 - [Github Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 ### During the Workshop
